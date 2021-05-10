@@ -1,7 +1,8 @@
-'use strict';
+"use strict";
 
 module.exports = newsfeed;
 
 function newsfeed() {
-    // TODO
+  // TODO
+  console.log("NEWS_FEED CONFIG");
 }
